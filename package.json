@@ -9,6 +9,7 @@
     "start": "next start" ,
     "heroku-postbuild": "npm run build",
     "lint": "next lint"
+    
   },
   "dependencies": {
     "next": "12.1.6",
